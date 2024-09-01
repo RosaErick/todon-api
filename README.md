@@ -7,12 +7,11 @@ Mastodon API Ruby Gem
 [gem]: https://rubygems.org/gems/mastodon-api
 [travis]: https://travis-ci.org/tootsuite/mastodon-api
 
-A ruby interface for the [Mastodon](https://github.com/tootsuite/mastodon) API.
+an updated fork of the ruby interface for the [Mastodon](https://github.com/mastodon) API.
 
 ## Installation
 
-    gem 'mastodon-api', require: 'mastodon'
-
+   gem install todon-api
 ## Documentation
 
 All the documentation is available on [RubyDoc](http://www.rubydoc.info/gems/mastodon-api/Mastodon/REST/API).
